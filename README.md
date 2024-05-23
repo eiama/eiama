@@ -1,4 +1,7 @@
-## Hi there 👋
+## oie
+-sou a Lohana
+-estou estudando bastante no alura
+-gosto de história 
 
 <!--
 **eiama/eiama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
